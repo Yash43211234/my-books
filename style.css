@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Odibee+Sans|Pacifico&display=swap");
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.font-pacifico {
+  font-family: "Pacifico", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
